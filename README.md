@@ -31,8 +31,13 @@ A web application for booking buses at IIIT Allahabad. This system allows studen
 - **Database:** MySQL
 - **Version Control:** Git
 
-## Contact
-
+## Tem Members
+Sahul Kumar
+Priyanshi 
+Yagesh Mishra - @Yagesh001
+Mohit Yadav
+Uttkarsh Malviya -@Menma420
+Nishant - @HeyyyBooo
 If you have any questions or suggestions, feel free to contact me at [uttkarshmalviya90@gmail.com](mailto:uttkarshmalviya90@gmail.com).
 
 ---
